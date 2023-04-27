@@ -138,3 +138,10 @@ yolov5s.pt
 
 # DS Store
 .DS_Store
+
+# Other
+flagged/
+Attention.ipynb
+AttentionMap.ipynb
+Benchmarks_old.ipynb
+Benchmarks.ipynb
