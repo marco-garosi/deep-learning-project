@@ -141,7 +141,5 @@ yolov5s.pt
 
 # Other
 flagged/
-Attention.ipynb
-AttentionMap.ipynb
-Benchmarks_old.ipynb
-Benchmarks.ipynb
+ignore/
+preprocessed/
