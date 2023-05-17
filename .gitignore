@@ -135,6 +135,7 @@ refcocog.tar.gz
 # YOLO Output
 runs/
 yolov5s.pt
+yolov8s.pt
 
 # DS Store
 .DS_Store
@@ -143,3 +144,5 @@ yolov5s.pt
 flagged/
 ignore/
 preprocessed/
+ignore/
+outcomes/
