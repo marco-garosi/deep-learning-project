@@ -146,3 +146,5 @@ ignore/
 preprocessed/
 ignore/
 outcomes/
+models/
+sampled_sents.csv
